@@ -1,2 +1,7 @@
 title: Keigo's personal website
 description: Keigo's personal website
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
